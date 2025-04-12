@@ -17,7 +17,7 @@ Just activate this plugin and make videos on your website play automatically as 
 
 Use the following steps:
 
-1. Download the latest version of the plugin here: http://www.twerff.nl/scrollvideos-plugin
+1. Download the latest version of the plugin here: http://www.twerff.com/scrollvideos-plugin
 2. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
